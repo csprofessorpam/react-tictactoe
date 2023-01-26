@@ -1,0 +1,8 @@
+.board-row{
+    display: flex;
+}
+.board-container{
+    width: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
